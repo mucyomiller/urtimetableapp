@@ -8,3 +8,5 @@ way student receive notifications including timetable
 MUCYO FRED mucyomiller@gmail.com   
 DUSHIME jean claude engdushime@gmail.com   
 
+
+copyright &copy; 2018
